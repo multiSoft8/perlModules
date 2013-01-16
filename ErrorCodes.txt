@@ -1,0 +1,12 @@
+11-Echipamentul nu raspunde la PING
+12-Nu am reusit sa stergem fisierul config.bat de pe switch
+13-Nu am reusit sa facem system-view pe preamaritul HUAWEI
+14-Nu s-a putut finaliza downloadul fiserului config.bat
+15-Echipamentul nu raspunde la ping pentru noul IP
+16-Nu am reusit sa obtinem ruta default
+17-Comunitatea nu este corecta
+30-Nu am reusit sa intram in acl mode
+31-Nu am reusit sa setam ip-ul in acl 2000
+32-Nu am reusit sa facem system-view din acl mode
+33-Nu am reusit sa trecem din system-view in super 3
+34-Nu am reusit sa dau save pe preamaritul HUAWEI
