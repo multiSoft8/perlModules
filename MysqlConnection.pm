@@ -6,10 +6,10 @@ sub new
 {
 	my $class = shift;
 	my $self = {};
-	$self->{host} = "213.157.178.4";
-	$self->{user} = "status";
-	$self->{pass} = "status-mod";
-	$self->{database} = "status";
+	$self->{host} = "192.168.1.1";
+	$self->{user} = "user";
+	$self->{pass} = "pass";
+	$self->{database} = "db";
 	$self->{query} = undef;
 	$self->{queryDth} = undef;
 	$self->{querySth} = undef;
